@@ -50,13 +50,41 @@ a {
   border: 1px solid black;
 }
 .column.large {
-    width: 630px;
-    border: 1px solid black;
+  width: 630px;
+  border: 1px solid black;
 }
 .column.medium {
   width: 300px;
   border: 1px solid black;
 }
+.column.small {
+  width: 240px;
+  border: 1px solid black;
+}
+.cookie-story {
+  border: 1px solid black;
+}
 .image-content {
+  border: 1px solid black;
+}
+.second-story {
+  border: 1px solid black;
+}
+.third-story {
+  border: 1px solid black;
+}
+.fourth-story {
+  border: 1px solid black;
+}
+.fifth-story {
+  border: 1px solid black;
+}
+.middle-story {
+  border: 1px solid black;
+}
+.sixth-story {
+  border: 1px solid black;
+}
+.seventh-story {
   border: 1px solid black;
 }
